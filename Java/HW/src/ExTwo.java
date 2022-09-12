@@ -1,4 +1,4 @@
-public class Extwo {
+public class ExTwo {
     public static void main(String[] args) {
     /*Родители купят школьнику новый велосипед, если у  него по математике или по физике будет оценка выше 9*/
     int mathGrade=7;

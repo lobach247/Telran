@@ -1,4 +1,4 @@
-public class Basic {
+public class ExOne {
     public static void main(String[] args) {
         /*Программа описывающая отличник ли школьник*/
         int mathGrade=10;
