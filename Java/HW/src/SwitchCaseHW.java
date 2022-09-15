@@ -3,7 +3,7 @@ public class SwitchCaseHW {
         char ch = 'b';
         switch (ch){
             case 'd':
-            System.out.println("Case 1");
+            System.out.println("Case  1");
             break;
 
             case 'b':
