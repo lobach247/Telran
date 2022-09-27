@@ -1,7 +1,7 @@
 public class ForLoop {
     public static void main(String[] args) {
 
-        String mom[] = {"My", "mama", "and", "papa"};
+        String[] mom = {"My", "mama", "and", "papa"};
         for (int i = 0; i < mom.length; i++) {
             char[] momArray = mom[i].toCharArray();
             for (int j = 0; j < momArray.length; j++) {
