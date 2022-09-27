@@ -40,7 +40,7 @@ public class SecondLevel {
 */
 //второй способ, тоже не работает, помогите разобраться, что не так
     public static void mySpeed(int yourSpeed, int normalSpeed, int speedOverTen, int speedOverTwenty, int speedOverThity, int speedingTen, int speedingTwenty, int speedingThity) {
-        if (yourSpeed < speedingTen && yourSpeed < normalSpeed) {
+        if (yourSpeed < speedingTen || yourSpeed < normalSpeed) {
             System.out.println("No fine for speeding");
         } else {
             if (yourSpeed >= speedingTen && yourSpeed < speedingTwenty) {
